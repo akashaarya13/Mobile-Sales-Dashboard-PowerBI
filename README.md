@@ -23,7 +23,7 @@ It provides insights into mobile sales performance, transaction trends, customer
 - Data Visualization & Dashboard Design
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](powerbi.png)
 
 ## 📌 Insights from Dashboard
 - Sales performance varies significantly across cities.
