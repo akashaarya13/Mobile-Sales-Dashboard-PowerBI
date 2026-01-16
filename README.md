@@ -40,5 +40,7 @@ It provides insights into mobile sales performance, transaction trends, customer
 I learned and built this dashboard through the course by **Skill Course Founder Satish Dhawale**.
 
 ## 🔗 Connect with Me
-- LinkedIn: ttps://github.com/dashboard
-- GitHub: linkedin.com/in/akash-kumar-571574246
+## 🔗 Connect with Me
+🔹 LinkedIn: [Akash Aarya](https://linkedin.com/in/akash-kumar-571574246)  
+🔹 GitHub: [AkashAarya](https://github.com/your-github-username)
+
