@@ -42,5 +42,5 @@ I learned and built this dashboard through the course by **Skill Course Founder 
 ## 🔗 Connect with Me
 ## 🔗 Connect with Me
 🔹 LinkedIn: [Akash Aarya](https://linkedin.com/in/akash-kumar-571574246)  
-🔹 GitHub: [AkashAarya](https://github.com/your-github-username)
+🔹 GitHub: [AkashAarya](https://github.com/akashaarya13)
 
